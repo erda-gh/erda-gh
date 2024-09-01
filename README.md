@@ -2,7 +2,7 @@
   <head>
     <style>
       .red {background-color: red;
-           height: 10px
+           height: 10px;
            }
       .blue {background-color: blue;}
     </style>
