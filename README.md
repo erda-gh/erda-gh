@@ -1,8 +1,8 @@
 <html>
   <head>
     <style>
-      .red {color: red;}
-      .blue {color: blue;}
+      .red {background-color: red;}
+      .blue {background-color: blue;}
     </style>
   </head>
   <body>
