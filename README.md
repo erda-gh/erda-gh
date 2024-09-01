@@ -1,4 +1,12 @@
-🌎 hello world, I'm Erda
+<html>
+  <head>
+    <style>
+      .red {color: red;}
+      .blue {color: blue;}
+    </style>
+  </head>
+  <body>
+    🌎 hello world, I'm Erda
 <br>
 🏠 I live in my dreams
 <br>
@@ -18,3 +26,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <br>
 💻 Tech Stack:
+<p class:"red">html</p> <p class:"blue">css</p>
+  </body>
+</html>
