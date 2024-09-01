@@ -1,8 +1,13 @@
 🌎 hello world, I'm Erda.
+<br>
 🏠 I live in my dreams.
+<br>
 ⚙ i know how to work with a unbroken pc.
+<br>
 🎯 looking for good partners who teach me good stuf.
+<br>
 ✏ my email acount: drdisrestpacto@gmail.com.
+<br>
 🤟 see ya, have fun.
 
 <!---
